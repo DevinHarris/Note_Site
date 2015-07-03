@@ -59,6 +59,7 @@ ul {
 	height: 600px;
 	background: url(../images/hero-bg.jpg) no-repeat center center;
 	background-size: cover;
+	background-position: fixed;
 }
 
 .inner-text h1, p {
@@ -207,6 +208,7 @@ ul {
 	height: 600px;
 	background: url(../images/package-bg.jpg) no-repeat center;
 	background-size: cover;
+	background-position: fixed;
 }
 
 .packages-inner { 
